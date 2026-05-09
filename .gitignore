@@ -24,3 +24,6 @@ secrets/
 _Sync/
 Issues/Done/_local/
 Sara_Work/
+
+# Local-only — NEVER commit
+IT_Config.md
