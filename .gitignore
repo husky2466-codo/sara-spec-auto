@@ -1,0 +1,26 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Sensitive / local-only
+*.local.md
+.env
+.env.*
+secrets/
+**/credentials/
+
+# Original audio / transcripts (keep specs only)
+*.rtf
+*.m4a
+*.mp3
+*.wav
+
+# Sara's local working files (her actual budget data should NEVER hit the repo)
+_Sync/
+Issues/Done/_local/
+Sara_Work/
